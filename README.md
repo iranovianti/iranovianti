@@ -1,4 +1,6 @@
-# Hi, I'm Ira 👋
+## Hi, I'm Ira 👋
+
+I do stuff sometimes
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">

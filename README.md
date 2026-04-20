@@ -7,3 +7,5 @@ I do stuff sometimes
   <source media="(prefers-color-scheme: light)" srcset="assets/contributions.svg">
   <img alt="GitHub Contribution Chart" src="assets/contributions.svg">
 </picture>
+
+<sub>Generated with [github-chartify](https://github.com/iranovianti/github-chartify)</sub>

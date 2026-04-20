@@ -20,6 +20,7 @@ jobs:
         uses: iranovianti/github-chartify@main
         with:
           output_path: 'assets/contributions.svg'
+          speed: 'medium'
 
       - name: Commit and push
         run: |

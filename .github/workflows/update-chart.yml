@@ -19,6 +19,8 @@ jobs:
       - uses: iranovianti/github-chartify@v1
         with:
           output: 'assets/contributions.svg'
+          style: 'circles'
+          speed: 'medium'
 
       - name: Commit and push
         run: |

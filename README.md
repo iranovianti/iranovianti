@@ -8,4 +8,4 @@ I do stuff sometimes
   <img alt="GitHub Contribution Chart" src="assets/contributions.svg">
 </picture>
 
-<sub>Generated with [github-chartify](https://github.com/iranovianti/github-chartify)</sub>
+<sub>Generated with [iranovianti/github-chartify](https://github.com/iranovianti/github-chartify)</sub>
